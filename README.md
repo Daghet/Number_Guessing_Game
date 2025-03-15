@@ -38,5 +38,5 @@ Which game do you want to play?
 - Include a replay option without exiting.
 
 ## Author
-[Your Name]  
+Geoff Walsh
 **Date**: March 2025
